@@ -30,7 +30,7 @@ Sou focado em construir softwares originais e com utilidade real, saindo do óbv
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,angular,nextjs,vite,ts,js&amp;theme=dark&amp;perline=10" alt="Tech Stack" />
   </a>
 </div>
