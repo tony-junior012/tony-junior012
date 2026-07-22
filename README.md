@@ -31,7 +31,7 @@ Sou focado em construir softwares originais e com utilidade real, saindo do óbv
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,angular,nextjs,vite,ts,js,appwrite,blender&amp;theme=dark&amp;perline=10" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,angular,nextjs,vite,ts,js&amp;theme=dark&amp;perline=10" alt="Tech Stack" />
   </a>
 </div>
 
@@ -41,7 +41,5 @@ Sou focado em construir softwares originais e com utilidade real, saindo do óbv
 
 ### 📊 Estatísticas
 
-<div align="center">
-  [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tony-junior012&show_icons=true&theme=tokyonight&border_radius=20&hide_border=true)](https://github.com/tony-junior012)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tony-junior012&show_icons=true&theme=tokyonight&border_radius=20&hide_border=true)](https://github.com/tony-junior012)
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tony-junior012&layout=compact&theme=tokyonight&border_radius=20&hide_border=true)](https://github.com/tony-junior012)
-</div>
