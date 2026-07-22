@@ -1,7 +1,6 @@
 <!-- BANNER DINÂMICO -->
-<!-- Este link gera um banner com gradiente moderno automaticamente. Você pode trocar as cores mudando o parâmetro 'color' -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Tony%20Yoiti%20Yokota%20Júnior&fontSize=50&fontAlignY=38&desc=Desenvolvedor%20Full-Stack%20%26%20Mobile&descSize=20&descAlignY=58" width="100%" alt="Banner Tony Yoiti Yokota Júnior" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=250&amp;section=header&amp;text=Tony%20Yoiti%20Yokota%20Júnior&amp;fontSize=50&amp;fontAlignY=38&amp;desc=Desenvolvedor%20Full-Stack%20%26%20Mobile&amp;descSize=20&amp;descAlignY=58" width="100%" alt="Banner Tony Yoiti Yokota Júnior" />
 </div>
 
 <br>
@@ -45,9 +44,8 @@ Sou focado em construir softwares originais e com utilidade real, saindo do óbv
 ### 📊 Estatísticas
 
 <div align="center">
-  <!-- Gráficos com bordas arredondadas (border_radius=20) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tony-junior012&show_icons=true&theme=tokyonight&border_radius=20&hide_border=true" width="48%" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony-junior012&layout=compact&theme=tokyonight&border_radius=20&hide_border=true" width="48%" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tony-junior012&amp;show_icons=true&amp;theme=tokyonight&amp;border_radius=20&amp;hide_border=true" width="48%" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony-junior012&amp;layout=compact&amp;theme=tokyonight&amp;border_radius=20&amp;hide_border=true" width="48%" alt="Linguagens mais usadas" />
 </div>
 
 <!--
