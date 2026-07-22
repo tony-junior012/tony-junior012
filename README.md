@@ -42,6 +42,6 @@ Sou focado em construir softwares originais e com utilidade real, saindo do óbv
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tony-junior012&amp;show_icons=true&amp;theme=tokyonight&amp;border_radius=20&amp;hide_border=true" width="48%" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony-junior012&amp;layout=compact&amp;theme=tokyonight&amp;border_radius=20&amp;hide_border=true" width="48%" alt="Linguagens mais usadas" />
+  [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tony-junior012&show_icons=true&theme=tokyonight&border_radius=20&hide_border=true)](https://github.com/tony-junior012)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tony-junior012&layout=compact&theme=tokyonight&border_radius=20&hide_border=true)](https://github.com/tony-junior012)
 </div>
