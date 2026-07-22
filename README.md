@@ -1,6 +1,6 @@
 <!-- BANNER DINÂMICO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=250&amp;section=header&amp;text=Tony%20Yoiti%20Yokota%20Júnior&amp;fontSize=50&amp;fontAlignY=38&amp;desc=Desenvolvedor%20Full-Stack%20%26%20Mobile&amp;descSize=20&amp;descAlignY=58" width="100%" alt="Banner Tony Yoiti Yokota Júnior" />
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Tony%20Yoiti%20Yokota%20J%C3%BAnior&fontSize=50&fontAlignY=38&desc=Desenvolvedor%20Full-Stack%20%26%20Mobile&descSize=20&descAlignY=58)
 </div>
 
 <br>
@@ -21,8 +21,7 @@
 Sou focado em construir softwares originais e com utilidade real, saindo do óbvio e criando soluções que realmente resolvem problemas. 
 
 * 🎓 Estudante de **Ciência da Computação** na UTFPR e Técnico em Desenvolvimento de Sistemas (Honra ao Mérito).
-* 💼 Atuo como Auxiliar de Suporte Técnico na Exiti Soluções Digitais.
-* 🚀 Desenvolvendo ativamente o **GIFE** (plataforma SaaS para eventos acadêmicos) e o **Task+** (gerenciador mobile integrado com IA).
+* 🚀 Desenvolvendo ativamente o **Task+** (gerenciador mobile integrado com IA) e o **etequianos.com** (Site de notícias acadêmicas).
 * 🔒 Arquitetura levada a sério: foco constante em segurança, criptografia e adequação à LGPD.
 * 💡 Explorando ecossistemas modernos (Vite, Appwrite, Next.js) e entusiasta de hardware, IoT e modelagem 3D (Blender).
 
@@ -32,9 +31,7 @@ Sou focado em construir softwares originais e com utilidade real, saindo do óbv
 
 <div align="center">
   <!-- Ícones com visual moderno "squircle" (quadrados arredondados tipo Apple) e tema dark -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,angular,nextjs,vite,ts,js,appwrite,blender&theme=dark&perline=10" alt="Tech Stack" />
-  </a>
+  [![Tech Stack](https://skillicons.dev/icons?i=kotlin,java,flutter,angular,nextjs,vite,ts,js,appwrite,blender&theme=dark&perline=10)](#)
 </div>
 
 <br>
@@ -44,8 +41,8 @@ Sou focado em construir softwares originais e com utilidade real, saindo do óbv
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tony-junior012&amp;show_icons=true&amp;theme=tokyonight&amp;border_radius=20&amp;hide_border=true" width="48%" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony-junior012&amp;layout=compact&amp;theme=tokyonight&amp;border_radius=20&amp;hide_border=true" width="48%" alt="Linguagens mais usadas" />
+  [![Estatísticas](https://github-readme-stats.vercel.app/api?username=tony-junior012&show_icons=true&theme=tokyonight&border_radius=20&hide_border=true)](#)
+  [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tony-junior012&layout=compact&theme=tokyonight&border_radius=20&hide_border=true)](#)
 </div>
 
 <!--
