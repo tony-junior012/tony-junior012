@@ -23,7 +23,7 @@ Sou focado em construir softwares originais e com utilidade real, saindo do óbv
 * 🎓 Estudante de **Ciência da Computação** na UTFPR e Técnico em Desenvolvimento de Sistemas (Honra ao Mérito).
 * 🚀 Desenvolvendo ativamente o **Task+** (gerenciador mobile integrado com IA) e o **etequianos.com** (Site de notícias acadêmicas).
 * 🔒 Arquitetura levada a sério: foco constante em segurança, criptografia e adequação à LGPD.
-* 💡 Explorando ecossistemas modernos (Vite, Appwrite, Next.js) e entusiasta de hardware, IoT e modelagem 3D (Blender).
+* 💡 Explorando ecossistemas modernos (Vite, Appwrite, Next.js) e entusiasta de hardware, IoT e modelagem 3D.
 
 ---
 
@@ -39,7 +39,8 @@ Sou focado em construir softwares originais e com utilidade real, saindo do óbv
 
 ---
 
-### 📊 Estatísticas
+### 📊 Estatísticas & Atividade
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tony-junior012&show_icons=true&theme=tokyonight&border_radius=20&hide_border=true)](https://github.com/tony-junior012)
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tony-junior012&layout=compact&theme=tokyonight&border_radius=20&hide_border=true)](https://github.com/tony-junior012)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tony-junior012&theme=tokyonight&border_radius=20&hide_border=true)](https://github.com/tony-junior012)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tony-junior012&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=f7768e&area=true&hide_border=true&radius=20)](https://github.com/tony-junior012)
