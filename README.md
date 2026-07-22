@@ -6,24 +6,10 @@
 <br>
 
 <div align="center">
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white" height="28" alt="LinkedIn">
-</a>
-<a href="mailto:seu-email@email.com" target="_blank">
-  <img src="https://img.shields.io/badge/-E_mail-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white" height="28" alt="E-mail">
-</a>
-
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=flat&amp;logo=linkedin&amp;logoColor=0077b5" height="28" alt="LinkedIn">
-</a>
-<a href="mailto:seu-email@email.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-1a1b27?style=flat&amp;logo=gmail&amp;logoColor=ea4335" height="28" alt="E-mail">
-</a>
-
-<a href="https://linkedin.com/in/seu-perfil" target="_blank">
+<a href="https://www.linkedin.com/in/tony-yoiti-yokota-j%C3%BAnior-2a5606287/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:seu-email@email.com" target="_blank">
+<a href="mailto:suporte@etequianos.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="E-mail">
 </a>
 </div>
